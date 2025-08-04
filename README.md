@@ -48,4 +48,4 @@ To provide an intuitive visual tool that:
   • **Temporal Planning**: Seasonal and monthly patterns inform demand management and capacity planning.
 
 ### 6. Overview  
-![Dashboard Preview](<https://github.com/huishubham/Energy-Analysis/blob/main/Screenshot%202025-08-04%20102357.png>)
+![Dashboard Preview](<https://github.com/huishubham/Energy-Analysis/blob/main/Dashboard%20Snapshot.png>)
