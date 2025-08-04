@@ -1,3 +1,6 @@
+# Energy Flow Dashboard
+
+### 1. Project Title / Headline  
 ⚡ **Energy Flow Dashboard: Renewable vs Non-Renewable Insights**  
 An interactive analytical dashboard built to explore and compare renewable and non-renewable energy consumption, costs, and emissions across cities, seasons, and time.
 
@@ -45,5 +48,4 @@ To provide an intuitive visual tool that:
   • **Temporal Planning**: Seasonal and monthly patterns inform demand management and capacity planning.
 
 ### 6. Screenshots / Demos  
-Show what the dashboard looks like.  
-Example: ![Dashboard Preview](<insert your screenshot URL or relative path here>)
+![Dashboard Preview](<https://github.com/huishubham/Energy-Analysis/blob/main/Screenshot%202025-08-04%20102357.png>)
