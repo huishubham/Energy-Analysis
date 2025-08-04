@@ -1,10 +1,10 @@
 # Energy Analysis Dashboard
 
-### 1. Project Title / Headline  
+### 1. Project Title  
 ⚡ **Energy Flow Dashboard: Renewable vs Non-Renewable Insights**  
 An interactive analytical dashboard built to explore and compare renewable and non-renewable energy consumption, costs, and emissions across cities, seasons, and time.
 
-### 2. Short Description / Purpose  
+### 2. Purpose 
 The Energy Flow Dashboard is a Power BI project that visualizes energy usage patterns—breaking down renewable vs non-renewable shares, cost per kWh, and emission impact—to surface trends and support informed sustainability and efficiency thinking.
 
 ### 3. Tech Stack  
@@ -47,5 +47,5 @@ To provide an intuitive visual tool that:
   • **Regional Strategy**: Highlights cities with increasing non-renewable dependence or successful reductions.  
   • **Temporal Planning**: Seasonal and monthly patterns inform demand management and capacity planning.
 
-### 6. Screenshots / Demos  
+### 6. Overview  
 ![Dashboard Preview](<https://github.com/huishubham/Energy-Analysis/blob/main/Screenshot%202025-08-04%20102357.png>)
