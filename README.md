@@ -1,4 +1,4 @@
-# Energy Flow Dashboard
+# Energy Analysis Dashboard
 
 ### 1. Project Title / Headline  
 ⚡ **Energy Flow Dashboard: Renewable vs Non-Renewable Insights**  
